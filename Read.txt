@@ -1,0 +1,7 @@
+Note that before doing anything, you must enter these codes in the terminal to download them :
+1.pip install django
+2.pip install djangorestframework
+3.pip install django djangorestframework djangorestframework-simplejwt
+
+* For now, until the files are updated and completed, you should type the code "python manage.py runserver" in the terminal and the server will run
+Enter this link into Google to bring up the membership section: http://127.0.0.1:8000/auth/signup *
